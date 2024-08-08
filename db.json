@@ -1,9 +1,219 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "_id": "66982b6c4581c63210acfbbf",
+    "word": "house",
+    "partOfSpeech": "noun",
+    "definition": "A structure built or serving as an abode of human beings.",
+    "__v": 0
+  },
+  {
+    "_id": "66983f204e4a8a39cffabb72",
+    "word": "drink",
+    "partOfSpeech": "verb",
+    "definition": "To consume (a liquid) through the mouth.",
+    "__v": 0
+  },
+  {
+    "_id": "66ad533701192311e06f6a08",
+    "word": "data",
+    "partOfSpeech": "noun",
+    "definition": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
+    "__v": 0
+  },
+  {
+    "_id": "66ae2262fa18d4898c9057bb",
+    "word": "tin",
+    "partOfSpeech": "noun",
+    "definition": "A malleable, ductile, metallic element, resistant to corrosion, with atomic number 50 and symbol Sn.",
+    "__v": 0
+  },
+  {
+    "_id": "66ae22ced2b00fdd0cd803ce",
+    "word": "hat",
+    "partOfSpeech": "noun",
+    "definition": "A covering for the head, often in the approximate form of a cone or a cylinder closed at its top end, and sometimes having a brim and other decoration.",
+    "__v": 0
+  },
+  {
+    "_id": "66ae40e06273cba36f153041",
+    "word": "superfluous",
+    "partOfSpeech": "adjective",
+    "definition": "In excess of what is required or sufficient.",
+    "__v": 0
+  },
+  {
+    "_id": "66ae98d7e7f368d88840981f",
+    "word": "computer",
+    "partOfSpeech": "noun",
+    "definition": "A person employed to perform computations; one who computes.",
+    "__v": 0
+  },
+  {
+    "_id": "66b024f8e2b446ee6d230e46",
+    "word": "board",
+    "partOfSpeech": "noun",
+    "definition": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+    "__v": 0
+  },
+  {
+    "_id": "66b0251ce2b446ee6d230e49",
+    "word": "star",
+    "partOfSpeech": "noun",
+    "definition": "Any small luminous dot appearing in the cloudless portion of the night sky, especially with a fixed location relative to other such dots.",
+    "__v": 0
+  },
+  {
+    "_id": "66b02533e2b446ee6d230e4c",
+    "word": "satellite",
+    "partOfSpeech": "noun",
+    "definition": "A moon or other smaller body orbiting a larger one.",
+    "__v": 0
+  },
+  {
+    "_id": "66b02ec8087c7f917c1f45cb",
+    "word": "button",
+    "partOfSpeech": "noun",
+    "definition": "One who adjusts, especially for the insurance industry's employment title \"loss adjuster\" (or \"claims adjuster\" in the United States).",
+    "__v": 0
+  },
+  {
+    "_id": "66b034ecfe0504364c2d2b62",
+    "word": "glass",
+    "partOfSpeech": "verb",
+    "definition": "To apply fibreglass to.",
+    "__v": 0
+  },
+  {
+    "_id": "66b036a3a0e74d04bdcb3213",
+    "word": "axolotl",
+    "partOfSpeech": "noun",
+    "definition": "A critically endangered salamander found in the elevated lakes of Mexico, Ambystoma mexicanum.",
+    "__v": 0
+  },
+  {
+    "_id": "66b036a8a0e74d04bdcb3215",
+    "word": "axolotl",
+    "partOfSpeech": "noun",
+    "definition": "A critically endangered salamander found in the elevated lakes of Mexico, Ambystoma mexicanum.",
+    "__v": 0
+  },
+  {
+    "_id": "66b274d63222d2aedfdf63d9",
+    "word": "tongue",
+    "partOfSpeech": "noun",
+    "definition": "The flexible muscular organ in the mouth that is used to move food around, for tasting and that is moved into various positions to modify the flow of air from the lungs in order to produce different sounds in speech.",
+    "__v": 0
+  },
+  {
+    "_id": "66b275b307de70b12fe1611a",
+    "word": "shirt",
+    "partOfSpeech": "noun",
+    "definition": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.",
+    "__v": 0
+  },
+  {
+    "_id": "66b275c007de70b12fe1611d",
+    "word": "shirt",
+    "partOfSpeech": "noun",
+    "definition": "An article of clothing that is worn on the upper part of the body, and often has sleeves, either long or short, that cover the arms.",
+    "__v": 0
+  },
+  {
+    "_id": "66b27667947b32d0d450d750",
+    "word": "rubber",
+    "partOfSpeech": "noun",
+    "definition": "Pliable material derived from the sap of the rubber tree; a hydrocarbon polymer of isoprene.",
+    "__v": 0
+  },
+  {
+    "_id": "66b27681947b32d0d450d753",
+    "word": "tire",
+    "partOfSpeech": "verb",
+    "definition": "To become sleepy or weary.",
+    "__v": 0
+  },
+  {
+    "_id": "66b277ac44c50b1215daf0ec",
+    "word": "calculator",
+    "partOfSpeech": "noun",
+    "definition": "A mechanical or electronic device that performs mathematical calculations.",
+    "__v": 0
+  },
+  {
+    "_id": "66b2783324dbb0fb86e9d33a",
+    "word": "abode",
+    "partOfSpeech": "verb",
+    "definition": "To endure without yielding; to withstand; await defiantly; to encounter; to persevere.",
+    "__v": 0
+  },
+  {
+    "_id": "66b2787024dbb0fb86e9d33f",
+    "word": "noun",
+    "partOfSpeech": "noun",
+    "definition": "(grammar, narrow sense) A word that can be used to refer to a person, animal, place, thing, phenomenon, substance, quality, or idea; one of the basic parts of speech in many languages, including English.",
+    "__v": 0
+  },
+  {
+    "_id": "66b2796e3f2f400c6db13f91",
+    "word": "glasses",
+    "partOfSpeech": "verb",
+    "definition": "To apply fibreglass to.",
+    "__v": 0
+  },
+  {
+    "_id": "66b279903f2f400c6db13f95",
+    "word": "bag",
+    "partOfSpeech": "noun",
+    "definition": "A flexible container made of cloth, paper, plastic, etc.",
+    "__v": 0
+  },
+  {
+    "_id": "66b27a18a34d725cc37183c5",
+    "word": "printer",
+    "partOfSpeech": "noun",
+    "definition": "One who makes prints.",
+    "__v": 0
+  },
+  {
+    "_id": "66b29de8ded3453038de84c6",
+    "word": "cool",
+    "partOfSpeech": "noun",
+    "definition": "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+    "__v": 0
+  },
+  {
+    "_id": "66b33ec8ded3453038de84c9",
+    "word": "ratchet",
+    "partOfSpeech": "noun",
+    "definition": "A pawl, click or detent for holding or propelling a ratchet wheel, or ratch, etc.",
+    "__v": 0
+  },
+  {
+    "_id": "66b4497aded3453038de84cd",
+    "word": "word",
+    "partOfSpeech": "noun",
+    "definition": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
+    "__v": 0
+  },
+  {
+    "_id": "66b4498bded3453038de84d0",
+    "word": "game",
+    "partOfSpeech": "noun",
+    "definition": "A playful or competitive activity.",
+    "__v": 0
+  },
+  {
+    "_id": "66b449bfded3453038de84d4",
+    "word": "coat",
+    "partOfSpeech": "noun",
+    "definition": "An outer garment covering the upper torso and arms.Wp",
+    "__v": 0
+  },
+  {
+    "_id": "66b462c0ded3453038de84d8",
+    "word": "temperature",
+    "partOfSpeech": "noun",
+    "definition": "A measure of cold or heat, often measurable with a thermometer.",
+    "__v": 0
+  }
+]
